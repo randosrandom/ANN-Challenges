@@ -1,4 +1,4 @@
-Challenges link:
+Challenges links:
 
 # Homework1
 https://www.kaggle.com/competitions/artificial-neural-networks-and-deep-learning-2020
