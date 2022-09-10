@@ -1,2 +1,10 @@
-Link to download data:
-https://www.kaggle.com/competitions/artificial-neural-networks-and-deep-learning-2020/data
+Challenges link:
+
+# Homework1
+https://www.kaggle.com/competitions/artificial-neural-networks-and-deep-learning-2020
+
+# Homework2
+https://competitions.codalab.org/competitions/27176#learn_the_details-overview
+
+# Homework3
+https://www.kaggle.com/competitions/anndl-2020-vqa
